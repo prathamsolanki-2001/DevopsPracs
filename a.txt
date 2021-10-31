@@ -1,2 +1,4 @@
 first text file a
-version 1
+Version 1
+
+modified 
