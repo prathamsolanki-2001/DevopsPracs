@@ -1,2 +1,4 @@
 second text file b
-version 2
+Version 2
+
+modified
